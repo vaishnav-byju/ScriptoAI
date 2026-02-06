@@ -1,0 +1,7 @@
+{
+  "name": "ScriptoAI - Personal Handwriting Mimic",
+  "description": "An advanced AI-powered app that learns your unique handwriting style from a photo and allows you to generate digital notes that look exactly like your own writing on various paper types.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
